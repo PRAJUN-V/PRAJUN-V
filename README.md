@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prajunvelandi@gmail.com**
 
-- ⚡ Fun fact **Whitespace in Python isn’t just a fashion statement!**
+- ⚡ Fun fact: <i>Did you know there's a poem called The Zen of Python? Written by Tim Peters, it captures the philosophy of Python in just 19 guiding principles. You can read it by simply typing **import this** in the Python interpreter. Give it a try! 🐍</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
